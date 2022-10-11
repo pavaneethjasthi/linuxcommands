@@ -1,0 +1,17 @@
+ls command:-
+The 'ls' is the list command in Linux,It will show the full list or content of your directory. 
+SYNTAX:-
+ls
+options:-
+ls -a
+ls -l
+ls -lh
+ls -lhs
+ls -n
+ls -li
+ls -p
+ls -r
+ls -R
+ls -LX 
+ls -lt 
+ls --version
