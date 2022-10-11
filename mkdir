@@ -1,0 +1,5 @@
+LINUX COMMANDS:- 
+MKDIR:-
+The mkdir command is used to create directories in our Linux Operating System
+syntax:-
+mkdir  [OPTION]... DIRECTORY...
