@@ -1,4 +1,0 @@
-GREP COMMAND:-
-The grep filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern.
-SYNATX:-
-grep [options] pattern [files]
